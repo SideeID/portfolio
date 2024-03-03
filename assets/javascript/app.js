@@ -17,7 +17,7 @@ function typeWriter(texts, element) {
   const texts = [
     "Halo saya Dimas Fajar  ",
     "Mahasiswa semester 4 di Politeknik Negeri Jember  ",
-    "Terimakasih sudah mengunjungi website ini  ",
+    "Terimakasih sudah mengunjungi website ini :V ",
   ];
   const heading = document.querySelector(".home h1");
   typeWriter(texts, heading);
