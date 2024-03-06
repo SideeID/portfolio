@@ -22,3 +22,12 @@ function typeWriter(texts, element) {
   const heading = document.querySelector(".home h1");
   typeWriter(texts, heading);
   
+
+  console.log(`
+   _____ _     __        ________ 
+  / ___/(_)___/ /__     /  _/ __ \\
+  \\__ \\/ / __  / _ \\    / // / / /
+ ___/ / / /_/ /  __/  _/ // /_/ / 
+/____/_/\\__,_/\\___/  /___/_____/  
+                                  
+`);
