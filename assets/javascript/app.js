@@ -14,6 +14,7 @@ function typeWriter(texts, element) {
       }
     }, 100);
   }
+  
   const texts = [
     "Halo saya Dimas Fajar  ",
     "Mahasiswa semester 4 di Politeknik Negeri Jember  ",
